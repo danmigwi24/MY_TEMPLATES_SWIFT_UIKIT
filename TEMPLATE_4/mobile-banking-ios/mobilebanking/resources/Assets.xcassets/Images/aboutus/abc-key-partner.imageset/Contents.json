@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "abc-key-partner-7137934e.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "abc-key-partner-7137934e@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "abc-key-partner-7137934e@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

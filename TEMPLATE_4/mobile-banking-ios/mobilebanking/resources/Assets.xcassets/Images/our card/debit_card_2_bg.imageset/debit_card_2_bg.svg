@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="328" height="173" viewBox="0 0 328 173">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#020244"/>
+      <stop offset="1" stop-color="#020244"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_4222" data-name="Group 4222" transform="translate(0 0)">
+    <rect id="background" width="328" height="173" rx="13" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    <path id="Intersection_3" data-name="Intersection 3" d="M10,119A10,10,0,0,1,0,109V1.516C11.552.519,23.414,0,35.5,0,153.336,0,249.488,49.286,254.771,111.136A10,10,0,0,1,245,119Z" transform="translate(0 54)" fill="#e08e81"/>
+    <path id="Path_2472" data-name="Path 2472" d="M-11014.272-12906.062s36.979-32.85,77.05-53.881,85.192-39.4,85.192-39.4l57.937,26.857s-28.225,4.971-45.3,23.141-19.65,43.287-19.65,43.287h-155.228Z" transform="translate(11024.476 13079.063)" fill="#dc6755"/>
+    <path id="Intersection_4" data-name="Intersection 4" d="M0,101A116.52,116.52,0,0,1,185.978,23.745V91a10,10,0,0,1-10,10Z" transform="translate(142.022 72)" fill="#121158"/>
+  </g>
+</svg>

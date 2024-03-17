@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3504" data-name="Rectangle 3504" width="24" height="24" transform="translate(0.111)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_141" data-name="Mask Group 141" transform="translate(-0.111)" clip-path="url(#clip-path)">
+    <g id="checklist_2_" data-name="checklist (2)" transform="translate(0 0.002)">
+      <path id="Path_2669" data-name="Path 2669" d="M23.6,8.8H19.2V3.6a.4.4,0,0,0-.4-.4H14V2.4a.4.4,0,0,0-.4-.4H11.948a1.6,1.6,0,0,0-3.1,0H7.2a.4.4,0,0,0-.4.4v.8H2a.4.4,0,0,0-.4.4V20.224a1.583,1.583,0,0,0,0,2.752V24a.4.4,0,0,0,.4.4H12.712a1.194,1.194,0,0,0,.888.4h10a1.2,1.2,0,0,0,1.2-1.2V10a1.2,1.2,0,0,0-1.2-1.2Zm-16-6H9.2a.4.4,0,0,0,.4-.4.8.8,0,1,1,1.6,0,.4.4,0,0,0,.4.4h1.6V4H7.6ZM2.4,4H6.8v.4a.4.4,0,0,0,.4.4h6.4a.4.4,0,0,0,.4-.4V4h4.4V8.8H13.6A1.2,1.2,0,0,0,12.4,10v1.6H11.2v.8h1.2v4H11.2v.8h1.2V20H2.4Zm2,16.8v1.6H3.6V20.8Zm-2.8.8a.8.8,0,0,1,.8-.8h.4v1.6H2.4a.8.8,0,0,1-.8-.8Zm10.8,2H2.4v-.4h10ZM5.2,22.4V20.8h9.516l.084.036v1.528l-.084.036Zm9.2-3.2V18h1.2v1.2ZM24,23.6a.4.4,0,0,1-.4.4h-10a.4.4,0,0,1-.4-.4v-.4h1.6a.4.4,0,0,0,.156-.032l2.244-.96V22.8a.4.4,0,0,0,.4.4h2a.4.4,0,0,0,.4-.4v-2a.4.4,0,0,0-.4-.4h-2a.4.4,0,0,0-.4.4v.192l-2.244-.96A.4.4,0,0,0,14.8,20H16a.4.4,0,0,0,.4-.4v-2a.4.4,0,0,0-.4-.4H14a.4.4,0,0,0-.4.4v2a.4.4,0,0,0,.4.4h-.8V10a.4.4,0,0,1,.4-.4h10a.4.4,0,0,1,.4.4Zm-8.4-1.58v-.84l.984.42Zm2.4.38V21.2h1.2v1.2Z" transform="translate(-0.8 -0.805)" fill="#fff"/>
+      <path id="Path_2670" data-name="Path 2670" d="M23.2,10H14a.4.4,0,0,0-.4.4v2.4a.4.4,0,0,0,.4.4h9.2a.4.4,0,0,0,.4-.4V10.4A.4.4,0,0,0,23.2,10Zm-.4,2.4H14.4V10.8h8.4ZM16,14H14a.4.4,0,0,0-.4.4v2a.4.4,0,0,0,.4.4h2a.4.4,0,0,0,.4-.4v-2A.4.4,0,0,0,16,14Zm-.4,2H14.4V14.8h1.2Zm4-2h-2a.4.4,0,0,0-.4.4v2a.4.4,0,0,0,.4.4h2a.4.4,0,0,0,.4-.4v-2A.4.4,0,0,0,19.6,14Zm-.4,2H18V14.8h1.2Zm.4,1.2h-2a.4.4,0,0,0-.4.4v2a.4.4,0,0,0,.4.4h2a.4.4,0,0,0,.4-.4v-2A.4.4,0,0,0,19.6,17.2Zm-.4,2H18V18h1.2Zm4-5.2h-2a.4.4,0,0,0-.4.4v2a.4.4,0,0,0,.4.4h2a.4.4,0,0,0,.4-.4v-2A.4.4,0,0,0,23.2,14Zm-.4,2H21.6V14.8h1.2Zm.4,1.2h-2a.4.4,0,0,0-.4.4v5.2a.4.4,0,0,0,.4.4h2a.4.4,0,0,0,.4-.4V17.6A.4.4,0,0,0,23.2,17.2Zm-.4,5.2H21.6V18h1.2ZM3.2,10H6.4a.4.4,0,0,0,.4-.4V7.463l1.032-.738-.465-.65L6.8,6.48V6.4A.4.4,0,0,0,6.4,6H3.2a.4.4,0,0,0-.4.4V9.6A.4.4,0,0,0,3.2,10Zm.4-3.2H6v.252l-1.157.826-.56-.56-.566.565.8.8a.4.4,0,0,0,.515.042L6,8.034V9.2H3.6Zm-.4,8H6.4a.4.4,0,0,0,.4-.4V12.263l1.032-.738-.465-.65L6.8,11.28V11.2a.4.4,0,0,0-.4-.4H3.2a.4.4,0,0,0-.4.4v3.2A.4.4,0,0,0,3.2,14.8Zm.4-3.2H6v.252l-1.157.826-.56-.56-.566.565.8.8a.4.4,0,0,0,.515.042L6,12.834V14H3.6Zm2.8,8a.4.4,0,0,0,.4-.4V17.063l1.032-.738-.465-.65L6.8,16.08V16a.4.4,0,0,0-.4-.4H3.2a.4.4,0,0,0-.4.4v3.2a.4.4,0,0,0,.4.4ZM3.6,16.4H6v.252l-1.157.826-.56-.56-.566.565.8.8a.4.4,0,0,0,.515.042L6,17.634V18.8H3.6Z" transform="translate(-0.8 -0.805)" fill="#fff"/>
+      <rect id="Rectangle_3505" data-name="Rectangle 3505" width="1.6" height="0.8" transform="translate(8 5.995)" fill="#fff"/>
+      <rect id="Rectangle_3506" data-name="Rectangle 3506" width="6.8" height="0.8" transform="translate(10.4 5.995)" fill="#fff"/>
+      <rect id="Rectangle_3507" data-name="Rectangle 3507" width="2.4" height="0.8" transform="translate(8 7.595)" fill="#fff"/>
+      <rect id="Rectangle_3508" data-name="Rectangle 3508" width="1.6" height="0.8" transform="translate(8 10.795)" fill="#fff"/>
+      <rect id="Rectangle_3509" data-name="Rectangle 3509" width="2.4" height="0.8" transform="translate(8 12.395)" fill="#fff"/>
+      <rect id="Rectangle_3510" data-name="Rectangle 3510" width="1.6" height="0.8" transform="translate(8 15.595)" fill="#fff"/>
+      <rect id="Rectangle_3511" data-name="Rectangle 3511" width="2.4" height="0.8" transform="translate(8 17.195)" fill="#fff"/>
+      <rect id="Rectangle_3512" data-name="Rectangle 3512" width="0.8" height="0.8" transform="translate(20.4 10.395)" fill="#fff"/>
+      <rect id="Rectangle_3513" data-name="Rectangle 3513" width="0.8" height="0.8" transform="translate(18.8 10.395)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,69 @@
+/*
+  Localizable.strings
+  mobilebanking
+
+  Created by Daniel Kimani on 19/02/2024.
+  
+*/
+//MARK: GLOBAL
+
+"GLOBAL.CONTINUE" = "CONTINUE";
+"GLOBAL.NOTNOW" = "NOT NOW";
+
+//MARK: LocalizeSwiftUIView
+"LocalizeSwiftUIView.welcome_message" = "Welcome to our app!";
+"welcome_message" = "Welcome to our app!";
+"introduction-string %@" = "Welcome to our app! %@";
+
+//MARK: GetStartedLandingPageScreen
+"GetStartedLandingPageScreen.title" = "Welcome to Eclectics Mobile Banking! Stay cashless & transact easily";
+"GetStartedLandingPageScreen.getstarted" = "Get Started";
+"GetStartedLandingPageScreen.login" = "Login";
+//
+"GetStartedLandingPageScreen.our_product" = "Our Product";
+"GetStartedLandingPageScreen.forex" = "Forex $ Stock";
+"GetStartedLandingPageScreen.support" = "Support";
+"GetStartedLandingPageScreen.open_account" = "Open Account";
+"GetStartedLandingPageScreen.about_us" = "About Us";
+"GetStartedLandingPageScreen.calculator" = "Calculator";
+
+//MARK: WelcomeAccountSelectionScreen
+"WelcomeAccountSelectionScreen.title" = "Hello there, welcome to Eclectics Bank we are happy to have you Here";
+"WelcomeAccountSelectionScreen.description" = "Select one of the options that best describes Your needs";
+"WelcomeAccountSelectionScreen.have_account" = "I Have An Eclectics Account";
+"WelcomeAccountSelectionScreen.new_account" = "I’m New To Eclectics";
+
+
+//MARK: Step1CreatePanicPinScreen
+"Step1CreatePanicPinScreen.header"="Create panic pin";
+"Step1CreatePanicPinScreen.title"="We want to make sure you are safe At all times";
+"Step1CreatePanicPinScreen.description"="This pin allows you to login into an account with a Pre-set minimum balance of your choice just incase you are in a tough situation and your account is vulnerable to unwilling transaction that you have been subjected to perform without any choice";
+//
+"Step1CreatePanicPinScreen.text1" = "Keeps your account safe incase of hijacking" ;
+"Step1CreatePanicPinScreen.text2" = "It stops people from knowing your actual balance" ;
+"Step1CreatePanicPinScreen.text3"="Protects your primary actual balance from robbers";
+
+//
+"Step1CreatePanicPinScreen.setpanicpinbutton"="SET PANIC PIN";
+"Step1CreatePanicPinScreen.notnowbutton"="NOT NOW";
+
+//MARK: Step2CreatePanicPinScreen
+//
+"Step2CreatePanicPinScreen.header"="Create panic pin";
+"Step2CreatePanicPinScreen.title"="We want to make sure you are safe At all times";
+"Step2CreatePanicPinScreen.description"="This pin allows you to login into an account with a Pre-set minimum balance of your choice just incase you are in a tough situation and your account is vulnerable to unwilling transaction that you have been subjected to perform without any choice";
+//
+"Step2CreatePanicPinScreen.text1" = "Set panic mode" ;
+"Step2CreatePanicPinScreen.text2" = "Kindly set the minimum amount to show" ;
+//
+"Step2CreatePanicPinScreen.amount_label"="Set Maximum Amount";
+"Step2CreatePanicPinScreen.amount_hint"="Eg. KES 100,000";
+
+//MARK: MinimumDepositScreen
+"MinimumDepositScreen.title"="Welcome to Eclectic Mobile Banking, make A minimum deposit to your account";
+"MinimumDepositScreen.description"="Make a minimum deposit of KES 100.00 for your account to be able to make transactions within the account";
+"MinimumDepositScreen.how_much_deposit"="How much would you like to deposit?";
+"MinimumDepositScreen.MAKEDEPOSIT"="MAKE DEPOSIT";
+"" = "";
+//
+"" = "";

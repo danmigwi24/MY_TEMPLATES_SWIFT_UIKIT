@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "12199AAF-7928-4ED1-843C-2702EF86B55C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A579FF18-87EC-4FA1-8B9F-D19CC719137F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mbcore/network/ApiProtocols/ApiServiceImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "defaultAuthRequest(requestBody:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A579FF18-87EC-4FA1-8B9F-D19CC719137F - 2b6f480550e3d8e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbcore.RequestManager.defaultAuthRequest(requestBody: mbcore.AuthReq, _: (Swift.Optional&lt;mbcore.DefaultResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/ApiServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+               <Location
+                  uuid = "A579FF18-87EC-4FA1-8B9F-D19CC719137F - 2b6f480550e3d8e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbcore.RequestManager.defaultAuthRequest(requestBody: mbcore.AuthReq, _: (Swift.Optional&lt;mbcore.DefaultResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/ApiServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1942">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4043AA83-5FFF-4119-93A1-39906C85F00D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mbcore/network/ApiProtocols/ApiServiceImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "defaultAuthRequest(requestBody:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4043AA83-5FFF-4119-93A1-39906C85F00D - e8e044c7330760a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in mbcore.RequestManager.defaultAuthRequest(requestBody: mbcore.AuthReq, _: (Swift.Optional&lt;mbcore.DefaultResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/ApiServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "282">
+               </Location>
+               <Location
+                  uuid = "4043AA83-5FFF-4119-93A1-39906C85F00D - e8e044c7330760a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in mbcore.RequestManager.defaultAuthRequest(requestBody: mbcore.AuthReq, _: (Swift.Optional&lt;mbcore.DefaultResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/ApiServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "391">
+               </Location>
+               <Location
+                  uuid = "4043AA83-5FFF-4119-93A1-39906C85F00D - 2b6f480550e3d90d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbcore.RequestManager.defaultAuthRequest(requestBody: mbcore.AuthReq, _: (Swift.Optional&lt;mbcore.DefaultResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/ApiServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1212">
+               </Location>
+               <Location
+                  uuid = "4043AA83-5FFF-4119-93A1-39906C85F00D - e8e044c7330760a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in mbcore.RequestManager.defaultAuthRequest(requestBody: mbcore.AuthReq, _: (Swift.Optional&lt;mbcore.DefaultResponse&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/ApiServiceImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47DA14CE-D1BB-4DA3-BA64-70A17D4A7B06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "aesReqResponseHandler(config:model:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47DA14CE-D1BB-4DA3-BA64-70A17D4A7B06 - 3c8941f921a6ae2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbcore.RequestManager.aesReqResponseHandler&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(config: mbcore.Config, model: Swift.Optional&lt;&#x3c4;_0_0&gt;, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "378">
+               </Location>
+               <Location
+                  uuid = "47DA14CE-D1BB-4DA3-BA64-70A17D4A7B06 - 3c8941f921a6ae2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbcore.RequestManager.aesReqResponseHandler&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(config: mbcore.Config, model: Swift.Optional&lt;&#x3c4;_0_0&gt;, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C8B0B90-F843-4A29-8C80-363EBCC64CAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "aesReqResponseHandler(config:model:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C8B0B90-F843-4A29-8C80-363EBCC64CAC - 7c782f044f7a83b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in mbcore.RequestManager.aesReqResponseHandler&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(config: mbcore.Config, model: Swift.Optional&lt;&#x3c4;_0_0&gt;, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "298">
+               </Location>
+               <Location
+                  uuid = "5C8B0B90-F843-4A29-8C80-363EBCC64CAC - 7c782f044f7a83b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in mbcore.RequestManager.aesReqResponseHandler&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(config: mbcore.Config, model: Swift.Optional&lt;&#x3c4;_0_0&gt;, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0AA4E80-62B2-41D9-AFB9-9734C70FF339"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "aesReqResponseHandler(config:model:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0AA4E80-62B2-41D9-AFB9-9734C70FF339 - 3c8941f921a694f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbcore.RequestManager.aesReqResponseHandler&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(config: mbcore.Config, model: Swift.Optional&lt;&#x3c4;_0_0&gt;, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1143">
+               </Location>
+               <Location
+                  uuid = "F0AA4E80-62B2-41D9-AFB9-9734C70FF339 - 7c782f044f7a83b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in mbcore.RequestManager.aesReqResponseHandler&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(config: mbcore.Config, model: Swift.Optional&lt;&#x3c4;_0_0&gt;, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "298">
+               </Location>
+               <Location
+                  uuid = "F0AA4E80-62B2-41D9-AFB9-9734C70FF339 - 3c8941f921a694f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mbcore.RequestManager.aesReqResponseHandler&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(config: mbcore.Config, model: Swift.Optional&lt;&#x3c4;_0_0&gt;, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+               <Location
+                  uuid = "F0AA4E80-62B2-41D9-AFB9-9734C70FF339 - 7c782f044f7a83b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in mbcore.RequestManager.aesReqResponseHandler&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(config: mbcore.Config, model: Swift.Optional&lt;&#x3c4;_0_0&gt;, completion: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mbcore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mbcore/network/ApiProtocols/RequestManager/RequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A82F98E9-2EB6-45D3-AF92-C4CB5CD9832B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mbcore/Common/Validators+Formatters.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "withCommas()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "682DFCEC-837B-4056-B408-B79F10FC44AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/SecurityImpl/EncryptionImpl/EncryptionServiceImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "EncryptRSA(_:cryptoConfig:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7B95BBA-586D-4DA4-B2C7-DB2012CAB8D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/SecurityImpl/EncryptionImpl/RSAUtils.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "349"
+            endingLineNumber = "349"
+            landmarkName = "encryptWithRSAPublicKey(_:pubkeyBase64:keychainTag:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "241F39E0-3BAB-4A2E-8D0F-4B749334D4F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/SecurityImpl/EncryptionImpl/RSAUtils.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "353"
+            endingLineNumber = "353"
+            landmarkName = "encryptWithRSAPublicKey(_:pubkeyBase64:keychainTag:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "241F39E0-3BAB-4A2E-8D0F-4B749334D4F8 - ef9bf0c3ef5870c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static MBCore.RSACrypto.encryptWithRSAPublicKey(_: Foundation.Data, pubkeyBase64: Swift.String, keychainTag: Swift.String) -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "MBCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/MBCore/SecurityImpl/EncryptionImpl/RSAUtils.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "356"
+                  endingLineNumber = "356"
+                  offsetFromSymbolStart = "203">
+               </Location>
+               <Location
+                  uuid = "241F39E0-3BAB-4A2E-8D0F-4B749334D4F8 - ef9bf0c3ef598af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static MBCore.RSACrypto.encryptWithRSAPublicKey(_: Foundation.Data, pubkeyBase64: Swift.String, keychainTag: Swift.String) -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "MBCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/MBCore/SecurityImpl/EncryptionImpl/RSAUtils.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "353"
+                  endingLineNumber = "353"
+                  offsetFromSymbolStart = "1342">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "264CBF93-6D0A-4C28-9B53-2BA057A79B0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/SecurityImpl/EncryptionImpl/EntryptExt.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "encryptedRSA(enKey:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "264CBF93-6D0A-4C28-9B53-2BA057A79B0D - e5e0eb488891ab05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.String.encryptedRSA(enKey: Swift.String) -&gt; Swift.String"
+                  moduleName = "MBCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/MBCore/SecurityImpl/EncryptionImpl/EntryptExt.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "471">
+               </Location>
+               <Location
+                  uuid = "264CBF93-6D0A-4C28-9B53-2BA057A79B0D - e5e0eb488891ab05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.String.encryptedRSA(enKey: Swift.String) -&gt; Swift.String"
+                  moduleName = "MBCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/MBCore/SecurityImpl/EncryptionImpl/EntryptExt.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "158">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB2BB197-0CE0-4C57-94B6-CE8CBA8AEE77"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/SecurityImpl/EncryptionImpl/RSAUtils.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "296"
+            endingLineNumber = "296"
+            landmarkName = "addRSAPublicKey(pubkey:tagName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACB60735-2D98-48D0-9C07-8FD51A94680A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/SecurityImpl/EncryptionImpl/RSAUtils.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "299"
+            endingLineNumber = "299"
+            landmarkName = "addRSAPublicKey(pubkey:tagName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA9253FA-E502-4F53-BDEC-4313F11E81E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/SecurityManager/rsaEncryptionPKCS1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "rsaDecrypt(data:privateKey:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "590D1151-CB1C-4736-BA33-B4A42D34453A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/SecurityManager/EncryptionImpl/EntryptExt.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "encryptAESGCMNOPADDING(iv:aesKey:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "341562A6-7F19-4B7A-9713-CE8AEDBCAD80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "346"
+            endingLineNumber = "346"
+            landmarkName = "performAccountLookUp(model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "341562A6-7F19-4B7A-9713-CE8AEDBCAD80 - 7874156aadec1cd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "346"
+                  endingLineNumber = "346"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "341562A6-7F19-4B7A-9713-CE8AEDBCAD80 - 7874156aadec1cf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "347"
+                  endingLineNumber = "347"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "341562A6-7F19-4B7A-9713-CE8AEDBCAD80 - 7874156aadec1cf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "347"
+                  endingLineNumber = "347"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "341562A6-7F19-4B7A-9713-CE8AEDBCAD80 - 7874156aadec1cd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "346"
+                  endingLineNumber = "346"
+                  offsetFromSymbolStart = "141">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D4BE797-7C59-45BB-B53A-86A4469DFA7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "348"
+            endingLineNumber = "348"
+            landmarkName = "performAccountLookUp(model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D4BE797-7C59-45BB-B53A-86A4469DFA7F - 7874156aadec1c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "348"
+                  endingLineNumber = "348"
+                  offsetFromSymbolStart = "540">
+               </Location>
+               <Location
+                  uuid = "3D4BE797-7C59-45BB-B53A-86A4469DFA7F - 70d843b91f3f9091"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "350"
+                  endingLineNumber = "350"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  uuid = "3D4BE797-7C59-45BB-B53A-86A4469DFA7F - 7874156aadec1c36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "531">
+               </Location>
+               <Location
+                  uuid = "3D4BE797-7C59-45BB-B53A-86A4469DFA7F - bcc4a565cbc0d5fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;MBCore.AccountLookUpResponse&gt;) -&gt; () in mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "3D4BE797-7C59-45BB-B53A-86A4469DFA7F - 7874156aadec1c36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "3D4BE797-7C59-45BB-B53A-86A4469DFA7F - bcc4a565cbc0d5bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;MBCore.AccountLookUpResponse&gt;) -&gt; () in mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "349"
+                  endingLineNumber = "349"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "3D4BE797-7C59-45BB-B53A-86A4469DFA7F - 7874156aadec1c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "348"
+                  endingLineNumber = "348"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "3D4BE797-7C59-45BB-B53A-86A4469DFA7F - bcc4a565cbc0d59c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;MBCore.AccountLookUpResponse&gt;) -&gt; () in mobilebanking.AccountLookUpScreen.performAccountLookUp(model: MBCore.AccountLookupRequest) -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/UIs/auth/lookup/AccountLookUpScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "348"
+                  endingLineNumber = "348"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7631C1C5-D39B-4457-8742-11E003085AD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mobilebanking/MyLearning/CoreDataBootCampSwiftUIView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7631C1C5-D39B-4457-8742-11E003085AD7 - ced31abcb5a1fe6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt; in mobilebanking.CoreDataBootCampSwiftUIView.body.getter : some"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/MyLearning/CoreDataBootCampSwiftUIView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "7631C1C5-D39B-4457-8742-11E003085AD7 - ced31abcb5a1fe6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt; in mobilebanking.CoreDataBootCampSwiftUIView.body.getter : some"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/MyLearning/CoreDataBootCampSwiftUIView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "7631C1C5-D39B-4457-8742-11E003085AD7 - ced31abcb5a1fe6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt; in mobilebanking.CoreDataBootCampSwiftUIView.body.getter : some"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/MyLearning/CoreDataBootCampSwiftUIView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "7631C1C5-D39B-4457-8742-11E003085AD7 - ced31abcb5a1fe6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt; in mobilebanking.CoreDataBootCampSwiftUIView.body.getter : some"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/MyLearning/CoreDataBootCampSwiftUIView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "666">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9ED7EDD-2C8C-4FE9-B9BD-61C4A507EDE8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mobilebanking/MyLearning/CoreDataBootCampSwiftUIView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F9ED7EDD-2C8C-4FE9-B9BD-61C4A507EDE8 - ced31abcb5a1fec6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt; in mobilebanking.CoreDataBootCampSwiftUIView.body.getter : some"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/MyLearning/CoreDataBootCampSwiftUIView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "550">
+               </Location>
+               <Location
+                  uuid = "F9ED7EDD-2C8C-4FE9-B9BD-61C4A507EDE8 - ced31abcb5a1fea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt; in mobilebanking.CoreDataBootCampSwiftUIView.body.getter : some"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/MyLearning/CoreDataBootCampSwiftUIView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "550">
+               </Location>
+               <Location
+                  uuid = "F9ED7EDD-2C8C-4FE9-B9BD-61C4A507EDE8 - ced31abcb5a1fea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(CustomTextField.EGTextField, mobilebanking.CustomButtonStroke, &lt;&lt;opaque return type of SwiftUI.View.listStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ListStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt; in mobilebanking.CoreDataBootCampSwiftUIView.body.getter : some"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/mobilebanking/MyLearning/CoreDataBootCampSwiftUIView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "586">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E076CAF-B2D2-468C-BE99-C8C9E8D8D42E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/data/db+storage/coreData/CoreDataViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E076CAF-B2D2-468C-BE99-C8C9E8D8D42E - 1c5721eadf93aeb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobilebanking.CoreDataViewModel.fetchUser() -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/MBCore/data/db+storage/coreData/CoreDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "6E076CAF-B2D2-468C-BE99-C8C9E8D8D42E - fea3a8faa4467535"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MBCore.CoreDataViewModel.fetchUser() -&gt; ()"
+                  moduleName = "MBCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/MBCore/data/db+storage/coreData/CoreDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "6E076CAF-B2D2-468C-BE99-C8C9E8D8D42E - 1c5721eadf93ae5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mobilebanking.CoreDataViewModel.fetchUser() -&gt; ()"
+                  moduleName = "mobilebanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/MBCore/data/db+storage/coreData/CoreDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  uuid = "6E076CAF-B2D2-468C-BE99-C8C9E8D8D42E - fea3a8faa44675da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MBCore.CoreDataViewModel.fetchUser() -&gt; ()"
+                  moduleName = "MBCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielkimani/Desktop/XcodeProjects/mobile-banking-ios/MBCore/data/db+storage/coreData/CoreDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45EFC3DB-13E4-43A8-8A94-A8997CA418C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/data/db+storage/coreData/CoreDataViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB09CA03-6A1A-4738-9917-F63F4EB137C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MBCore/data/db+storage/coreData/CoreDataViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9DDE76A-DCBD-4AB9-9ED1-9182B245936A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mobilebanking/MyLearning/realmdb/TaskListSwiftUIView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "deleteTask(at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4A06596-4BF9-4328-97C6-8F7D6FBCA3F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mobilebanking/UIs/auth/walletActivation/Step3WalletActivationScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "562"
+            endingLineNumber = "562"
+            landmarkName = "performRequest(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58718F55-C289-4422-A055-1749BF0E3C64"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mobilebanking/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "267"
+            endingLineNumber = "267">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
